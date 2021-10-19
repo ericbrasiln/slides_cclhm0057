@@ -8,7 +8,7 @@ Instituto de Humanidades e Letras, campus dos Malês, Universidade da Integraç�
 
 Disciplina obrigatória do curso de licenciatura em História
 
-Semestre: 2021.1
+Semestre: 2020.1
 
 Carga Horária:
 |Teórica | Prática como compontente curricular | Total |
